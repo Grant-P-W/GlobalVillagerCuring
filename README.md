@@ -1,3 +1,14 @@
+
+```diff
+- I lost interest in maintaining this a while ago.
+- User sebseb7 forked this last year and put it on modrinth.
+- Go check that out if you're interested.
+```
+https://github.com/sebseb7/GlobalVillagerCuring
+
+https://modrinth.com/plugin/globalvillagercuring
+
+#
 ### *This plugin makes use of the paper api and will only work on paper and it's derivatives. This will not work on spigot.*
 
 
